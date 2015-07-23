@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="7701" systemVersion="14D136" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Alarms" representedClassName="Alarms" syncable="YES">
+        <attribute name="alarmLabel" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="alarmNumber" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+        <attribute name="alarmTime" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="alarmTurnedOn" optional="YES" attributeType="Boolean" defaultValueString="0" syncable="YES"/>
+        <attribute name="amPMtext" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="centerPositionY" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="fri" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="mainHeight" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="mainWidth" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="mon" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="sat" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="sun" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="thurs" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="tues" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="wed" optional="YES" attributeType="Boolean" syncable="YES"/>
+    </entity>
+    <entity name="Timer" syncable="YES">
+        <attribute name="timerRunning" optional="YES" attributeType="Integer 64" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Alarms" positionX="-63" positionY="-18" width="128" height="270"/>
+        <element name="Timer" positionX="-63" positionY="99" width="128" height="60"/>
+    </elements>
+</model>
