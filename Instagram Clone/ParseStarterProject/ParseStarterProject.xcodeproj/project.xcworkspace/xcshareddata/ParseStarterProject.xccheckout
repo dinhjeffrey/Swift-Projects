@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FB1B84E4-4BFC-4A60-B7E2-0A3EFE401AB2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ParseStarterProject</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8455DFD7F4C2A42B254C8F0CA29A1C3DD6EAE9DF</key>
+		<string>https://github.com/AkhilNadendla/Swift-Projects.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Instagram Clone/ParseStarterProject/ParseStarterProject.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8455DFD7F4C2A42B254C8F0CA29A1C3DD6EAE9DF</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/AkhilNadendla/Swift-Projects.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8455DFD7F4C2A42B254C8F0CA29A1C3DD6EAE9DF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8455DFD7F4C2A42B254C8F0CA29A1C3DD6EAE9DF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>IOS%20Apps</string>
+		</dict>
+	</array>
+</dict>
+</plist>
